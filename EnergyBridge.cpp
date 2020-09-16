@@ -1,3 +1,11 @@
+//
+//  EnergyBridge.cpp
+//  Highrise
+//
+//  Created by Jimmy Xu on 2/15/19.
+//  Copyright © 2019 Pocketz World. All rights reserved.
+//
+
 #include "EnergyBridge.hpp"
 
 using namespace highrise::core;

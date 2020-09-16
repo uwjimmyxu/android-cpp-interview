@@ -1,5 +1,5 @@
 //
-//  Energy.hpp
+//  EnergyBridge.hpp
 //  Highrise
 //
 //  Created by Jimmy Xu on 2/15/19.
