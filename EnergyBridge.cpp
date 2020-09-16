@@ -15,7 +15,7 @@ bool EnergyBridge::isEnergyFull() {
 }
 
 int EnergyBridge::updateAndGetCurrentEnergy() {
-	return calculateCurrentEnergy(_energy);
+	return energyUpdateHelper(_energy);
 }
 
 void EnergyBridge::consumeEnergy() {
